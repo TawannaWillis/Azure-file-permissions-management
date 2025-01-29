@@ -84,6 +84,7 @@ A project focused on configuring and managing file permissions in Azure, ensurin
 <img src="https://i.imgur.com/K02vvze.png" height="80%" width="80%" alt="Configuration Steps"/> 
 <img src="https://i.imgur.com/qMEksbZ.png" height="80%" width="80%" alt="Configuration Steps"/> 
 <img src="https://i.imgur.com/eKV4wNl.png" height="80%" width="80%" alt="Configuration Steps"/>  
+<img src="https://i.imgur.com/cmd2Q4J.png" height="80%" width="80%" alt="Configuration Steps"/>  
 </p>
 <p>
 <br />
