@@ -36,13 +36,12 @@ A project focused on configuring and managing file permissions in Azure, ensurin
 
 <p>
 <img src="https://i.imgur.com/OVXNl0I.png" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="https://i.imgur.com/kRfXDoW.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/mRs20oU.png" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="https://i.imgur.com/2vT5VLq.png" height="80%" width="80%" alt="Configuration Steps"/>  
 <img src="https://i.imgur.com/Sb8F3U0.png" height="80%" width="80%" alt="Configuration Steps"/>  
 <img src="https://i.imgur.com/0XlGPPw.png" height="80%" width="80%" alt="Configuration Steps"/>  
 
 
-<br />-Create File Shares with Permissions
 <br />-Log into the domain controller (DC-1) as a domain admin.
 <br />-Create four folders: read-access, write-access, no-access, and accounting.
 <br />-Assign appropriate file share and NTFS permissions for Domain Users and Domain Admins.
